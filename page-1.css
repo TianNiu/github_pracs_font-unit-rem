@@ -1,0 +1,18 @@
+html{
+	font-size: 75%;
+}
+/* for sec-1*/
+.sec-1 p{
+	font-size: 2rem;
+}
+.sec-1 p span{
+	font-size: 3rem;
+}
+
+/* for sec-2*/
+.sec-2 p{
+	font-size: 2em;
+}
+.sec-2 p span{
+	font-size: 1em;
+}
